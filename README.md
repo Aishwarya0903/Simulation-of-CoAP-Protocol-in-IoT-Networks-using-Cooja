@@ -8,11 +8,6 @@ sensor network.
 > **Status:** Project proposal and methodology with literature survey.
 > Simulation results will be added to `/results` once experiments are complete.
 
-## Team
-- Aishwarya Y (22MIS0281)
-- Sandhya A (22MIS0248)
-- Radhika Raina (22MIS0468)
-
 VIT, Information Security Analysis and Audit course project.
 
 ## Objective
@@ -54,8 +49,4 @@ A review of 10 papers on CoAP performance, congestion control
 patterns, security overhead at scale, and unified evaluation of
 congestion, energy and reliability.
 
-## Results
-_To be added._
 
-## Documents
-- [Project presentation](docs/CoAP_Cooja_Project_Presentation.pdf)
